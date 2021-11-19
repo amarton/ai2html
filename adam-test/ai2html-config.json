@@ -1,0 +1,28 @@
+{
+    "fonts": [
+        {
+            "aifont": "Poppins-ExtraBold",
+            "family": "Poppins;",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Poppins-Bold",
+            "family": "Poppins",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Poppins-Regular",
+            "family": "Poppins",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Poppins-Italic",
+            "family": "Poppins",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
